@@ -1,4 +1,6 @@
 #import "JanalyticsPlugin.h"
+// 引入JAnalytics功能所需头文件
+#import "JANALYTICSService.h"
 
 @interface NSError (FlutterError)
 @property(readonly, nonatomic) FlutterError *flutterError;
